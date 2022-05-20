@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     
+    <title>Football Score Keeper⚽</title>
+    
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body>
+    <div class="app-title-container">
+        <h1 class="app-tittle">⚽Football Score Keeper⚽</h1>
+    </div>
+
+  <div class="team-card-container">
+    <div class="team-card">
+       <h2 class="team-card-title">Team A🌻</h2>
+       <p class="team-card-score">0</p>
+    </div>
+
+    <div class="team-card">
+       <h2 class="team-card-title">Team B🏵️</h2>
+       <p class="team-card-score">0</p>
+    </div>
+  </div>
+    
+</body>
+
+
+</html>
