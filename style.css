@@ -1,0 +1,35 @@
+body{
+    background-color: #85FFBD;
+background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+
+}
+.app-tittle{
+    text-align:center;
+}
+
+.app-title-container{
+    background-color: #cc3399;
+    color: white;
+    padding: 2px;
+    border-radius: 40px;
+    border:white 5px solid;
+}
+
+.team-card-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.team-card{
+    background-color: white;
+    width: 300px;
+    margin: 20px;
+}
+
+.team-card-title{
+    text-align: center;
+}
+
+.team-card-score{
+    
+}
